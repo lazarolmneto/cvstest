@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F5FF4FD0-D51F-47A8-B68D-387FAD164E3C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2BA409B9-2793-45E3-BE67-49956F9800FC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSTestTests/API/FlickrRequestTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "testFetchUsers()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2BA409B9-2793-45E3-BE67-49956F9800FC - c3aaedcead653e50"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;CVSTest.SearchResult, Swift.Error&gt;) -&gt; () in CVSTestTests.FlickrRequestTests.testFetchUsers() throws -&gt; ()"
+                  moduleName = "CVSTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lazaroneto/Desktop/Lazaro%20Neto/CVSTest/CVSTestTests/API/FlickrRequestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "2BA409B9-2793-45E3-BE67-49956F9800FC - c3aaedcead653e8b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;CVSTest.SearchResult, Swift.Error&gt;) -&gt; () in CVSTestTests.FlickrRequestTests.testFetchUsers() throws -&gt; ()"
+                  moduleName = "CVSTestTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lazaroneto/Desktop/Lazaro%20Neto/CVSTest/CVSTestTests/API/FlickrRequestTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E7D40EF-0C07-409D-8830-CD403B884D23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSTest/Views/ImageItem.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AB2ADF6-AE87-41C6-BC78-CC5C02C86EDE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CVSTest/Logic/SearchResultViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "fetchResults(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0AB2ADF6-AE87-41C6-BC78-CC5C02C86EDE - 3a873b57e4c7cfe8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CVSTest.SearchResultViewModel.fetchResults(with: Swift.String) -&gt; ()"
+                  moduleName = "CVSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lazaroneto/Desktop/Lazaro%20Neto/CVSTest/CVSTest/Logic/SearchResultViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "0AB2ADF6-AE87-41C6-BC78-CC5C02C86EDE - 3a873b57e4c7cfe8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CVSTest.SearchResultViewModel.fetchResults(with: Swift.String) -&gt; ()"
+                  moduleName = "CVSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lazaroneto/Desktop/Lazaro%20Neto/CVSTest/CVSTest/Logic/SearchResultViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
